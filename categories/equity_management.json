@@ -1,7 +1,37 @@
 {
   "name": "Equity Management",
-  "description": "",
+  "prorata": [
+    {
+      "name": "stakeholders",
+      "default": 25
+    }
+  ],
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est placerat in egestas erat imperdiet sed euismod. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Vitae aliquet nec ullamcorper sit amet risus nullam. Mattis aliquam faucibus purus in massa. Sit amet venenatis urna cursus eget.",
   "features": [
-    {}
+    {
+      "key": "cap_table_management",
+      "name": "Cap Table Management",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est placerat in egestas erat imperdiet sed euismod. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Vitae aliquet nec ullamcorper sit amet risus nullam. Mattis aliquam faucibus purus in massa. Sit amet venenatis urna cursus eget."
+    },
+    {
+      "key": "document_storage",
+      "name": "Document Storage",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est placerat in egestas erat imperdiet sed euismod. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Vitae aliquet nec ullamcorper sit amet risus nullam. Mattis aliquam faucibus purus in massa. Sit amet venenatis urna cursus eget."
+    },
+    {
+      "key": "financing_round_modelling",
+      "name": "Financing Round Modelling",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est placerat in egestas erat imperdiet sed euismod. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Vitae aliquet nec ullamcorper sit amet risus nullam. Mattis aliquam faucibus purus in massa. Sit amet venenatis urna cursus eget."
+    },
+    {
+      "key": "exit_waterfall_analysis",
+      "name": "Exit Waterfall Analysis",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est placerat in egestas erat imperdiet sed euismod. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Vitae aliquet nec ullamcorper sit amet risus nullam. Mattis aliquam faucibus purus in massa. Sit amet venenatis urna cursus eget."
+    },
+    {
+      "key": "409a_valuations",
+      "name": "409a Valuations",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est placerat in egestas erat imperdiet sed euismod. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Vitae aliquet nec ullamcorper sit amet risus nullam. Mattis aliquam faucibus purus in massa. Sit amet venenatis urna cursus eget."
+    }
   ]
 }
